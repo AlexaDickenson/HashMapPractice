@@ -1,4 +1,3 @@
-public class IOU {
     import java.util.HashMap;
 
     public class IOU {
@@ -25,4 +24,3 @@ public class IOU {
             System.out.println(mattsIOU.howMuchDoIOweTo("Michael"));
         }
     }
-}
